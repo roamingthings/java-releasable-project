@@ -30,7 +30,7 @@ jobs:
           distribution: corretto
 
       - name: Setup Gradle and test application
-        uses: gradle/actions/setup-gradle@v3
+        uses: gradle/actions/setup-gradle@v4
 
       - name: Release
         id: release

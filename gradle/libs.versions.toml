@@ -28,5 +28,5 @@ snapshotTesting-junit5 = { module = "io.github.origin-energy:java-snapshot-testi
 [bundles]
 
 [plugins]
-axion = { id = "pl.allegro.tech.build.axion-release", version = "1.18.3" }
+axion = { id = "pl.allegro.tech.build.axion-release", version = "1.18.14" }
 spotless = { id = "com.diffplug.spotless", version = "6.25.0" }
